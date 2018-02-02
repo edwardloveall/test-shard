@@ -1,0 +1,10 @@
+name: test-shard
+version: 0.1.0
+
+authors:
+  - Edward Loveall <edward@edwardloveall.com>
+
+description: |
+  Not meant to be used
+
+license: MIT
